@@ -1,2 +1,2 @@
 # swe2-excercises
-# Hello World
+echo # Hello World
